@@ -1,14 +1,14 @@
 # Hi there! <img align="center" height="50" src="https://emoji.slack-edge.com/T029AUC4A/peepohey/402070e8ce980dd0.gif"/>
 </br>
 
-## My name is Jenny, and I'm a brazilian computer science student  🖥️ . Nice to meet you!
+## My name is Jennie, and I'm a brazilian computer science student  🖥️ . Nice to meet you!
 </br>
 
 ## These are the languages I'm currently studying:  <img align="center" height="30" src="https://emoji.slack-edge.com/T029AUC4A/peeponote/667df83103bff9cd.png"/>
  <div>
   <a href="https://github.com/jennigoberski">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennigoberski&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jennigoberski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennigoberski&layout=compact&langs_count=16&theme=aura"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jennigoberski&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 </br> 
    
